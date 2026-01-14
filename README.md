@@ -1,0 +1,1 @@
+# GIT-Squashing-Pruning
